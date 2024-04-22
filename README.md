@@ -21,8 +21,8 @@
 </a>
 : Aplicación web que brinda una navegación por los productos que Pet Palace ofrece con posibilidad de compra. El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con NODE.js, Express, Sequelize y PostgreSQL. Para la autentificación de usuarios se utilizó Auth0, el envío automático de mails se gestionó con Nodemailer y para la pasarela de pagos se utilizó Stripe. El deploy del frontend se hizo mediante Vercel, y el deploy del backend se hizo en Render.
 </p>
-<a href="https://petpalace-lilac.vercel.app" target="blank">
-<strong>PET PALACE</strong>
+PET PALACE: <a href="https://petpalace-lilac.vercel.app" target="blank">
+<strong>petpalace-lilac.vercel.app</strong>
 </a>
 
 <h1 align="center"></h1>

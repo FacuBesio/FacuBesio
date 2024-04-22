@@ -22,6 +22,8 @@
 : Aplicación web que brinda una navegación por los productos que Pet Palace ofrece con posibilidad de compra. El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con NODE.js, Express, Sequelize y PostgreSQL. Para la autentificación de usuarios se utilizó Auth0, el envío automático de mails se gestionó con Nodemailer y para la pasarela de pagos se utilizó Stripe. El deploy del frontend se hizo mediante Vercel, y el deploy del backend se hizo en Render.
 </p>
 
+<h1 align="center"></h1>
+
 <h3 align="left">🛸 Tecnologías</h3>
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>

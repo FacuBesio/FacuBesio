@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">🔭 Interés en</h3>
-<p>Mi mayor interés es continuar desarrollándome como Full Stack Developer, totalmente predispuesto a incorporar nuevas tecnologías. Estoy interesado en unirme a redes de contactos para compartir proyectos, experiencias y colaborar activamente con quienes estén interesados en formar grupos de trabajo en un futuro.
+<p>Mi mayor interés es continuar desarrollándome como Full Stack Developer, totalmente predispuesto a incorporar nuevas tecnologías. Me interesa unirme a redes de contactos para compartir proyectos, experiencias y colaborar activamente con quienes estén interesados en formar grupos de trabajo en un futuro.
 </p>
 
 

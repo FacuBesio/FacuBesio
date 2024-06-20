@@ -16,14 +16,18 @@
 <h3 align="left">🔨 Proyectos más recientes</h3>
 <p>
     •
-<a href="https://github.com/PetPalacePF/petpalace" target="_blank">
-<strong>Henry - Proyecto Grupal Final - Pet Palace</strong>
+<a href="https://github.com/PetPalacePF/PrimerosPasos" target="_blank">
+<strong>Primeros Pasos - Tienda Online - Proyecto Freelance</strong>
 </a>
-: Tienda online que brinda una navegación por los productos que Pet Palace ofrece con posibilidad de compra. El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con NODE.js, Express, Sequelize y PostgreSQL. Para la autentificación de usuarios se utilizó Auth0, el envío automático de mails se gestionó con Nodemailer y para la pasarela de pagos se utilizó Stripe. El deploy del frontend se hizo mediante Vercel, y el deploy del backend se hizo en Render.
+: El objetivo de la tienda es diseñar una navegación fluida por los productos que Primeros Pasos tiene para ofrecer. La tienda cuenta con un diseño responsivo, basado en generar una gran experiencia de usuario. Cuenta también con un dashboard administrador para poder gestionar roles de usuarios, productos y todas las operaciones realizadas en la tienda. Cada usuario contará con su propia cuenta personalizada, donde también podrán realizar un seguimiento detallado de todas sus interacciones en la plataforma. 
+
+El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con Node.js, Express, Sequelize y PostgreSQL. Para la pasarela de pagos se incorporó la Api de Mercado Pago. Para la autentificación de usuarios se utilizó Auth0 y el envío automático de mails se gestionó con Nodemailer y EmailJs. El deploy del frontend está hecho mediante Vercel, mientras que el deploy del backend se hizo en Render.
 </p>
-PET PALACE: <a href="https://petpalace-lilac.vercel.app" target="_blank">
+Primeros Pasos deploy: <a href="https://próximamente..." target="_blank">
 <strong>petpalace-lilac.vercel.app</strong>
 </a>
+
+<h1 align="center"></h1>
 
 <p>
     •
@@ -32,7 +36,7 @@ PET PALACE: <a href="https://petpalace-lilac.vercel.app" target="_blank">
 </a>
 : Tienda online que brinda una navegación por los productos que Pet Palace ofrece con posibilidad de compra. El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con NODE.js, Express, Sequelize y PostgreSQL. Para la autentificación de usuarios se utilizó Auth0, el envío automático de mails se gestionó con Nodemailer y para la pasarela de pagos se utilizó Stripe. El deploy del frontend se hizo mediante Vercel, y el deploy del backend se hizo en Render.
 </p>
-PET PALACE: <a href="https://petpalace-lilac.vercel.app" target="_blank">
+Pet Palace deploy: <a href="https://petpalace-lilac.vercel.app" target="_blank">
 <strong>petpalace-lilac.vercel.app</strong>
 </a>
 

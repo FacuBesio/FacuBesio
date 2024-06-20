@@ -24,10 +24,8 @@
 El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con Node.js, Express, Sequelize y PostgreSQL. Para la pasarela de pagos se incorporó la Api de Mercado Pago. Para la autentificación de usuarios se utilizó Auth0 y el envío automático de mails se gestionó con Nodemailer y EmailJs. El deploy del frontend está hecho mediante Vercel, mientras que el deploy del backend se hizo en Render.
 </p>
 Primeros Pasos deploy: <a href="https://próximamente..." target="_blank">
-<strong>petpalace-lilac.vercel.app</strong>
+<strong>próximamente...</strong>
 </a>
-
-<h1 align="center"></h1>
 
 <p>
     •

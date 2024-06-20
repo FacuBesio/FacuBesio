@@ -26,9 +26,7 @@ El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tai
 Deploy: <a href="https://próximamente..." target="_blank">
 <strong>próximamente...</strong>
 </a>
-
-<br>
-
+<br><br>
 <p>
     •
 <a href="https://github.com/PetPalacePF/petpalace" target="_blank">

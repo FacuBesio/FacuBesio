@@ -27,7 +27,7 @@ Deploy: <a href="https://próximamente..." target="_blank">
 <strong>próximamente...</strong>
 </a>
 
-<br><br>
+<br>
 
 <p>
     •

@@ -23,9 +23,10 @@
 
 El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con Node.js, Express, Sequelize y PostgreSQL. Para la pasarela de pagos se incorporó la Api de Mercado Pago. Para la autentificación de usuarios se utilizó Auth0 y el envío automático de mails se gestionó con Nodemailer y EmailJs. El deploy del frontend está hecho mediante Vercel, mientras que el deploy del backend se hizo en Render.
 </p>
-Primeros Pasos deploy: <a href="https://próximamente..." target="_blank">
+Deploy: <a href="https://próximamente..." target="_blank">
 <strong>próximamente...</strong>
 </a>
+
 
 <p>
     •
@@ -34,7 +35,7 @@ Primeros Pasos deploy: <a href="https://próximamente..." target="_blank">
 </a>
 : Tienda online que brinda una navegación por los productos que Pet Palace ofrece con posibilidad de compra. El desarrollo del front-end se realizó mediante el uso de JS, React, HTML y Tailwind, mientras que el back-end se desarrolló con NODE.js, Express, Sequelize y PostgreSQL. Para la autentificación de usuarios se utilizó Auth0, el envío automático de mails se gestionó con Nodemailer y para la pasarela de pagos se utilizó Stripe. El deploy del frontend se hizo mediante Vercel, y el deploy del backend se hizo en Render.
 </p>
-Pet Palace deploy: <a href="https://petpalace-lilac.vercel.app" target="_blank">
+Deploy: <a href="https://petpalace-lilac.vercel.app" target="_blank">
 <strong>petpalace-lilac.vercel.app</strong>
 </a>
 

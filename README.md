@@ -60,5 +60,3 @@ Deploy: <a href="https://petpalace-lilac.vercel.app" target="_blank">
 📫<a href="https://linkedin.com/in/facundo-besio" target="blank">
  linkedin.com/in/facundo-besio
 </a>
-
-<p align="left"> Ante cualquier duda, consulta o propuesta no dudes en contactarte!</p>

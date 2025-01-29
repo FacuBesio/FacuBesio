@@ -4,11 +4,11 @@
 <h1 align="center"></h1>
 
 <h3 align="left">💬 Sobre mí</h3>
-<p>Programador Full Stack con formación orientada a Aplicaciones Web. Mi incursión en la programación comenzó en 2021 con Java orientado al backend. En 2023 decidí ampliar mis habilidades, profundizando en JavaScript y su entorno, con el objetivo de aprender a desarrollar proyectos de principio a fin. Adquirí conocimientos para trabajar con JS, React, Java, Spring, MySQL, PostgreSQL y Git. 
+<p>Programador Full Stack con formación orientada a Aplicaciones Web. Mi incursión en la programación comenzó en 2021 con Java orientado al backend. En 2023 decidí ampliar mis habilidades, profundizando en JavaScript y su entorno, con el objetivo de aprender a desarrollar proyectos de principio a fin. Adquirí conocimientos para trabajar con Java, Spring Boot y JPA, JS, React, MySQL, PostgreSQL y Git. 
 </p>
 
 <h3 align="left">🔭 Interés en</h3>
-<p>Mi mayor interés es continuar desarrollándome como Full Stack Developer, totalmente predispuesto a incorporar nuevas tecnologías. Me interesa unirme a redes de contactos para compartir proyectos, experiencias y colaborar activamente con quienes estén interesados en formar grupos de trabajo en un futuro.
+<p> Me interesa unirme a redes de contactos para compartir proyectos, experiencias y colaborar activamente con quienes estén interesados en formar equipos de trabajo.
 </p>
 
 
